@@ -1,0 +1,5 @@
+127.0.0.1 - - [01/Sep/2019:02:48:55 +0000] "GET / HTTP/1.1" 200 612 "-" "Wget/1.19.4 (linux-gnu)"
+127.0.0.1 - - [01/Sep/2019:02:49:03 +0000] "GET / HTTP/1.1" 200 612 "-" "curl/7.58.0"
+179.113.199.70 - - [01/Sep/2019:02:51:35 +0000] "GET / HTTP/1.1" 200 396 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3879.0 Safari/537.36 Edg/78.0.249.1"
+179.113.199.70 - - [01/Sep/2019:02:51:35 +0000] "GET /favicon.ico HTTP/1.1" 404 209 "http://linux-vm-uniquednsname.westus.cloudapp.azure.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3879.0 Safari/537.36 Edg/78.0.249.1"
+82.117.247.41 - - [01/Sep/2019:02:52:59 +0000] "GET / HTTP/1.1" 200 612 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
